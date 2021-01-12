@@ -1,0 +1,39 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.Main{
+    border: solid 2px;
+    border-color: gray;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.Main img{
+    width: 100%;
+    
+}
+.Main hr{
+    width: 230px;
+}
+.moviehead{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+    width:100%;
+    display: inline-block;
+}
